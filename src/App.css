@@ -1,0 +1,91 @@
+body {
+  background-image: url('https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.pinimg.com%2Foriginals%2Fdb%2F34%2Fd4%2Fdb34d40b271fb59477621550bf73ea0b.jpg&f=1&nofb=1');
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+}
+
+.app {
+  text-align: center;
+}
+
+h1 {
+  background-color: blanchedalmond;
+  margin: 0;
+  padding: 20px;
+}
+
+.card {
+  width: 50%;
+  background-color: #FFD898;
+  display: inline-block;
+  border-radius: 20px;
+  margin-top: 20px;
+}
+
+.card--badge {
+  padding: 0 20px;
+  background-color: #F9EAC2 ;
+  border-radius: 20px;
+}
+
+.card--badge h3 {
+  padding: 20px;
+}
+
+.card--btns {
+  background-color: #ECFDF1;
+  border-radius: 20px;
+  padding: 20px;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  grid-template-rows: auto auto;
+  gap: 10px;
+}
+
+.card--btns button {
+  padding: 20px;
+  font-size: 25px;
+  background-color: #FEE7E6;
+  border-radius: 10px;
+  border: none;
+  transition: .3s;
+}
+
+button:hover {
+  cursor: pointer;
+  background-color: #EED7C6;
+}
+
+@keyframes slidein {
+  from {
+    transform: scale(0);
+  }
+
+  to {
+    transform: scale((1))
+  }
+}
+.message {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: absolute;
+  margin: auto;
+  top: 20%;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  background-color: red;
+  width: 40%;
+  height: 30%;
+  border-radius: 20px;
+  font-size: 40px;
+  animation-duration: .4s;
+  animation-name: slidein;
+  animation-timing-function: ease;
+}
+
+.green {
+  background-color: green;
+}

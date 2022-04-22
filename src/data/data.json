@@ -1,0 +1,1063 @@
+{
+    "response_code": 0,
+    "questions": [
+        {
+            "category": "Cuerpo Humano",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "¿Qué aparato se encarga de recoger oxígeno?",
+            "correct_answer": "Respiratorio",
+            "incorrect_answers": [
+            "Digestivo",
+            "Escretor",
+            "Circulatorio"
+            ]
+        },
+        {
+            "category": "Cuerpo Humano",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "¿A qué aparato pertenece la Tráquea?",
+            "correct_answer": "Respiratorio",
+            "incorrect_answers": [
+            "Digestivo",
+            "Escretor",
+            "Circulatorio"
+            ]
+        },
+        {
+            "category": "Cuerpo Humano",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "¿Cuánta sangre tiene un ser humano aproximadamente?",
+            "correct_answer": "Entre 4,5 y 6 litros",
+            "incorrect_answers": [
+            "62 litros",
+            "Un litro",
+            "20 litros"
+            ]
+        },
+        {
+            "category": "Cuerpo Humano",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "¿Por qué se arrugan los dedos bajo el agua?",
+            "correct_answer": "Para mejorar el agarre de cuerpos húmedos.",
+            "incorrect_answers": [
+            "Para evitar quemarnos.",
+            "Para absorver más nutrientes.",
+            "Porque el agua filtra en la capa exterior de la piel."
+            ]
+        },
+        {
+            "category": "Cuerpo Humano",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "¿Cuál de estas es una enfermedad mental relacionada con la nutrición?",
+            "correct_answer": "Anorexia",
+            "incorrect_answers": [
+            "Escorbuto",
+            "Raquitismo",
+            "Obesidad"
+            ]
+        },
+        {
+            "category": "Cuerpo Humano",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "Cuando una dieta aporta todos los nutrientes necesarios, decimos que…",
+            "correct_answer": "Es completa",
+            "incorrect_answers": [
+            "Es mediterránea",
+            "Es equilibrada",
+            "Es adelgazante"
+            ]
+        },
+        {
+            "category": "Cuerpo Humano",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "¿Por qué sudamos cuando hace calor?",
+            "correct_answer": "Para regular la temperatura corporal.",
+            "incorrect_answers": [
+            "Para correr más.",
+            "Para ahuyentar a los mosquitos.",
+            "Para evitar el cansancio."
+            ]
+        },
+        {
+            "category": "Cuerpo Humano",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "¿Dónde podemos encontrar proteinas?",
+            "correct_answer": "Legumbres",
+            "incorrect_answers": [
+            "Agua",
+            "Verdura",
+            "Fruta"
+            ]
+        },
+        {
+            "category": "Cuerpo Humano",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "¿A qué aparato pertenecen las venas?",
+            "correct_answer": "Circulatorio",
+            "incorrect_answers": [
+            "Digestivo",
+            "Escretor",
+            "Respiratorio"
+            ]
+        },
+        {
+            "category": "Cuerpo Humano",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "¿Cuántos aparatos intervienen en la nutrición?",
+            "correct_answer": "4",
+            "incorrect_answers": [
+            "1",
+            "3",
+            "2"
+            ]
+        },
+        {
+            "category": "Cuerpo Humano",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "¿Qué función tienen las proteinas?",
+            "correct_answer": "Constructiva",
+            "incorrect_answers": [
+            "Reguladora",
+            "Anabolizante",
+            "Energética"
+            ]
+        },
+        {
+            "category": "Cuerpo Humano",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "¿Cómo llamamos al latido del corazón?",
+            "correct_answer": "Impulso cardíaco",
+            "incorrect_answers": [
+            "Propulsión",
+            "Latido",
+            "Bombeo"
+            ]
+        },
+        {
+            "category": "Cultura General",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "Termina el refrán: Más vale pájaro en mano…",
+            "correct_answer": "Que ciento volando",
+            "incorrect_answers": [
+            "Y ríase la gente",
+            "Que cuchara de palo",
+            "Que pollo en fotografía"
+            ]
+        },
+        {
+            "category": "Cultura General",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "¿Cuántos días tiene un año bisiesto?",
+            "correct_answer": "366 días",
+            "incorrect_answers": [
+            "360 días",
+            "365 días",
+            "370 días"
+            ]
+        },
+        {
+            "category": "Cultura General",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "¿En qué ciudad se encuentra el museo del Louvre?",
+            "correct_answer": "París",
+            "incorrect_answers": [
+            "Roma",
+            "Milán",
+            "Madrid"
+            ]
+        },
+        {
+            "category": "Cultura General",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "Mozart era un genio del mundo de…",
+            "correct_answer": "La música",
+            "incorrect_answers": [
+            "La televisión",
+            "La literatura",
+            "El deporte"
+            ]
+        },
+        {
+            "category": "Cultura General",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "¿Cómo se llama la escritura utilizada por personas ciegas?",
+            "correct_answer": "Braille",
+            "incorrect_answers": [
+            "Ideograma",
+            "Morse",
+            "Jeroglífico"
+            ]
+        },
+        {
+            "category": "Cultura General",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "¿Quién se dice que es el rey de la selva?",
+            "correct_answer": "El león",
+            "incorrect_answers": [
+            "El búfalo",
+            "El elefante",
+            "El tigre"
+            ]
+        },
+        {
+            "category": "Cultura General",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "¿En qué país encontraremos la Basílica de San Pedro?",
+            "correct_answer": "Ciudad del Vaticano",
+            "incorrect_answers": [
+            "Italia",
+            "España",
+            "Francia"
+            ]
+        },
+        {
+            "category": "Cultura General",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "Pablo Picasso era…",
+            "correct_answer": "Un pintor",
+            "incorrect_answers": [
+            "Un escritor",
+            "Un actor",
+            "Un músico"
+            ]
+        },
+        {
+            "category": "Cultura General",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "¿Qué es una orquídea?",
+            "correct_answer": "Una flor",
+            "incorrect_answers": [
+            "Un pez",
+            "Un mamífero",
+            "La mujer de una orca"
+            ]
+        },
+        {
+            "category": "Cultura General",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "¿Qué inventaron los hermanos Lumières?",
+            "correct_answer": "El cine",
+            "incorrect_answers": [
+            "El teléfono",
+            "La electricidad",
+            "El automóvil"
+            ]
+        },
+        {
+            "category": "Deportes",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "¿Qué arma no se utiliza en esgrima?",
+            "correct_answer": "La daga",
+            "incorrect_answers": [
+            "La espada",
+            "El sable",
+            "El florete"
+            ]
+        },
+        {
+            "category": "Deportes",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "¿Quién ganó el Tour de Francia en 2007?",
+            "correct_answer": "Alberto Contador",
+            "incorrect_answers": [
+            "Lance Armstrong",
+            "Alexander Vinokourov",
+            "Miguel Induráin"
+            ]
+        },
+        {
+            "category": "Deportes",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "¿Cuántos puntos hace falta para ganar un juego en el Ping Pong?",
+            "correct_answer": "21 puntos",
+            "incorrect_answers": [
+            "15 puntos",
+            "11 puntos",
+            "9 puntos"
+            ]
+        },
+        {
+            "category": "Deportes",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "¿En qué país se inventó el fútbol?",
+            "correct_answer": "Inglaterra",
+            "incorrect_answers": [
+            "Brasil",
+            "Francia",
+            "Alemania"
+            ]
+        },
+        {
+            "category": "Deportes",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "¿Qué deporte está relacionado a Roger Federer?",
+            "correct_answer": "Tenis",
+            "incorrect_answers": [
+            "Fútbol",
+            "Baloncesto",
+            "Rugby"
+            ]
+        },
+        {
+            "category": "Deportes",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "¿Qué deporte se practica sobre un ring?",
+            "correct_answer": "El boxeo",
+            "incorrect_answers": [
+            "El Karate",
+            "La Lucha",
+            "El Judo"
+            ]
+        },
+        {
+            "category": "Deportes",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "¿Cuál de los siguientes deportistas no ha sido futbolista?",
+            "correct_answer": "Rubens Barrichello",
+            "incorrect_answers": [
+            "Thierry Henry",
+            "David Beckham",
+            "Ruben Baraja"
+            ]
+        },
+        {
+            "category": "Deportes",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "El equipo de Rugby conocido como “All Blacks”, ¿de qué país es originario?",
+            "correct_answer": "Nueva Zelanda",
+            "incorrect_answers": [
+            "Australia",
+            "Inglaterra",
+            "Sudáfrica"
+            ]
+        },
+        {
+            "category": "Deportes",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "¿Qué medalla Olímpica no existe?",
+            "correct_answer": "La medalla de Cobre",
+            "incorrect_answers": [
+            "La medalla de Plata",
+            "La medalla de Bronce",
+            "La medalla de Oro"
+            ]
+        },
+        {
+            "category": "Deportes",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "¿Cuál de los siguientes aparatos no se usan en la Gimnasia Rítmica?",
+            "correct_answer": "El triángulo",
+            "incorrect_answers": [
+            "La cinta",
+            "La pelota",
+            "La cuerda"
+            ]
+        },
+        {
+            "category": "Deportes",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "¿Cuánto dura un partido de baloncesto?",
+            "correct_answer": "40 minutos",
+            "incorrect_answers": [
+            "1 hora",
+            "20 minutos",
+            "Media hora"
+            ]
+        },
+        {
+            "category": "Deportes",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "¿En qué deporte se puede ganar la “Copa Davis”?",
+            "correct_answer": "En tenis",
+            "incorrect_answers": [
+            "En baloncesto",
+            "En fútbol",
+            "En rugby"
+            ]
+        },
+        {
+            "category": "Deportes",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "¿En qué equipo de Formula 1 corría Michael Schumacher?",
+            "correct_answer": "Ferrari",
+            "incorrect_answers": [
+            "Toyota",
+            "McLaren",
+            "Renault"
+            ]
+        },
+        {
+            "category": "Deportes",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "¿Cuál de los siguientes estilos de natación es más rápido?",
+            "correct_answer": "Crawl",
+            "incorrect_answers": [
+            "Espalda",
+            "Mariposa",
+            "Braza"
+            ]
+        },
+        {
+            "category": "Deportes",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "¿En qué equipo de Fútbol juega Leo Messi?",
+            "correct_answer": "Barcelona",
+            "incorrect_answers": [
+            "Real Madrid",
+            "Sevilla",
+            "Valencia"
+            ]
+        },
+        {
+            "category": "Deportes",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "",
+            "correct_answer": "Respiratorio",
+            "incorrect_answers": [
+            "Digestivo",
+            "Escretor",
+            "Circulatorio"
+            ]
+        }
+    ],
+    "results": [
+    {
+    "category": "Entertainment: Comics",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Who is Batman?",
+    "correct_answer": "Bruce Wayne",
+    "incorrect_answers": [
+    "Clark Kent",
+    "Barry Allen",
+    "Tony Stark"
+    ]
+    },
+    {
+    "category": "Entertainment: Music",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "What is not a wind instrument?",
+    "correct_answer": "Viola",
+    "incorrect_answers": [
+    "Oboe",
+    "Trombone",
+    "Duduk"
+    ]
+    },
+    {
+    "category": "Science: Computers",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Which company was established on April 1st, 1976 by Steve Jobs, Steve Wozniak and Ronald Wayne?",
+    "correct_answer": "Apple",
+    "incorrect_answers": [
+    "Microsoft",
+    "Atari",
+    "Commodore"
+    ]
+    },
+    {
+    "category": "Entertainment: Music",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Which Canadian reggae musician had a 1993 hit with the song &#039;Informer&#039;?",
+    "correct_answer": "Snow",
+    "incorrect_answers": [
+    "Rain",
+    "Hail",
+    "Sleet"
+    ]
+    },
+    {
+    "category": "Entertainment: Cartoon & Animations",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "The song &#039;Little April Shower&#039; features in which Disney cartoon film?",
+    "correct_answer": "Bambi",
+    "incorrect_answers": [
+    "Cinderella",
+    "Pinocchio",
+    "The Jungle Book"
+    ]
+    },
+    {
+    "category": "Entertainment: Video Games",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "What is the most expensive weapon in Counter-Strike: Global Offensive?",
+    "correct_answer": "Scar-20/G3SG1",
+    "incorrect_answers": [
+    "M4A1",
+    "AWP",
+    "R8 Revolver"
+    ]
+    },
+    {
+    "category": "Entertainment: Video Games",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "What is the main ship used by Commander Shepard in the Mass Effect Franchise called?",
+    "correct_answer": "Normandy",
+    "incorrect_answers": [
+    "Osiris",
+    "Infinity",
+    "Endeavour"
+    ]
+    },
+    {
+    "category": "Entertainment: Video Games",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "In &quot;Undertale&quot;, how many main endings are there?",
+    "correct_answer": "3",
+    "incorrect_answers": [
+    "2",
+    "5",
+    "13"
+    ]
+    },
+    {
+    "category": "Science & Nature",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "What is the standard SI unit for temperature?",
+    "correct_answer": "Kelvin",
+    "incorrect_answers": [
+    "Fahrenheit",
+    "Celsius",
+    "Rankine"
+    ]
+    },
+    {
+    "category": "General Knowledge",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "What is &quot;dabbing&quot;?",
+    "correct_answer": "A dance",
+    "incorrect_answers": [
+    "A medical procedure",
+    "A sport",
+    "A language"
+    ]
+    },
+    {
+    "category": "Science: Computers",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "What is the most preferred image format used for logos in the Wikimedia database?",
+    "correct_answer": ".svg",
+    "incorrect_answers": [
+    ".png",
+    ".jpeg",
+    ".gif"
+    ]
+    },
+    {
+    "category": "Vehicles",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Jaguar Cars was previously owned by which car manfacturer?",
+    "correct_answer": "Ford",
+    "incorrect_answers": [
+    "Chrysler",
+    "General Motors",
+    "Fiat"
+    ]
+    },
+    {
+    "category": "Entertainment: Video Games",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "In what year was &quot;Metal Gear Solid&quot; released in North America?",
+    "correct_answer": "1998",
+    "incorrect_answers": [
+    "1987",
+    "2001",
+    "2004"
+    ]
+    },
+    {
+    "category": "Entertainment: Japanese Anime & Manga",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "What is the last name of Edward and Alphonse in the Fullmetal Alchemist series.",
+    "correct_answer": "Elric",
+    "incorrect_answers": [
+    "Ellis",
+    "Eliek",
+    "Elwood"
+    ]
+    },
+    {
+    "category": "Entertainment: Film",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Which of these movies did Jeff Bridges not star in?",
+    "correct_answer": "The Hateful Eight",
+    "incorrect_answers": [
+    "Tron: Legacy",
+    "The Giver",
+    "True Grit"
+    ]
+    },
+    {
+    "category": "Entertainment: Video Games",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "What is the protagonist&#039;s title given by the demons in DOOM (2016)?",
+    "correct_answer": "Doom Slayer",
+    "incorrect_answers": [
+    "Doom Guy",
+    "Doom Marine",
+    "Doom Reaper"
+    ]
+    },
+    {
+    "category": "Entertainment: Cartoon & Animations",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "In the Pixar film, &quot;Toy Story&quot; what was the name of the child who owned the toys?",
+    "correct_answer": "Andy",
+    "incorrect_answers": [
+    "Edward",
+    "Danny",
+    "Matt"
+    ]
+    },
+    {
+    "category": "General Knowledge",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "What was the nickname given to the Hughes H-4 Hercules, a heavy transport flying boat which achieved flight in 1947?",
+    "correct_answer": "Spruce Goose",
+    "incorrect_answers": [
+    "Noah&#039;s Ark",
+    "Fat Man",
+    "Trojan Horse"
+    ]
+    },
+    {
+    "category": "Entertainment: Video Games",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "In Undertale, what&#039;s the prize for answering correctly?",
+    "correct_answer": "More questions",
+    "incorrect_answers": [
+    "New car",
+    "Mercy",
+    "Money"
+    ]
+    },
+    {
+    "category": "Entertainment: Japanese Anime & Manga",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Who is the main character with yellow hair in the anime Naruto?",
+    "correct_answer": "Naruto",
+    "incorrect_answers": [
+    "Ten Ten",
+    "Sasuke",
+    "Kakashi"
+    ]
+    },
+    {
+    "category": "Entertainment: Television",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "The &quot;Psycho&quot; series of videos on YouTube was created by which of the following?",
+    "correct_answer": "RiDGiD STUDiOS",
+    "incorrect_answers": [
+    "Dan Bell",
+    "Billy Familia",
+    "VeganGainz"
+    ]
+    },
+    {
+    "category": "Geography",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Which of these African countries list &quot;Spanish&quot; as an official language?",
+    "correct_answer": "Equatorial Guinea",
+    "incorrect_answers": [
+    "Guinea",
+    "Cameroon",
+    "Angola"
+    ]
+    },
+    {
+    "category": "Science & Nature",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "The medical term for the belly button is which of the following?",
+    "correct_answer": "Umbilicus",
+    "incorrect_answers": [
+    "Nevus",
+    "Nares",
+    "Paxillus"
+    ]
+    },
+    {
+    "category": "Entertainment: Video Games",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "In Danganronpa: Trigger Happy Havoc, what is the protagonist&#039;s name?",
+    "correct_answer": "Makoto Naegi",
+    "incorrect_answers": [
+    "Hajime Hinata",
+    "Nagito Komaeda",
+    "Komaru Naegi"
+    ]
+    },
+    {
+    "category": "Entertainment: Film",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Who in Pulp Fiction says &quot;No, they got the metric system there, they wouldn&#039;t know what the fuck a Quarter Pounder is.&quot;",
+    "correct_answer": "Vincent Vega",
+    "incorrect_answers": [
+    "Jules Winnfield",
+    "Jimmie Dimmick",
+    "Butch Coolidge"
+    ]
+    },
+    {
+    "category": "Entertainment: Television",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "In DuckTales, what is the name of the city where all the main characters live?",
+    "correct_answer": "Duckburg",
+    "incorrect_answers": [
+    "Duckwing",
+    "Tailspin",
+    "Wingford"
+    ]
+    },
+    {
+    "category": "Entertainment: Japanese Anime & Manga",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "In &quot;The Melancholy of Haruhi Suzumiya&quot; series, the SOS Brigade club leader is unknowingly treated as a(n) __ by her peers.",
+    "correct_answer": "God",
+    "incorrect_answers": [
+    "Alien",
+    "Time Traveler",
+    "Esper"
+    ]
+    },
+    {
+    "category": "Entertainment: Music",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Who performed &quot;I Took A Pill In Ibiza&quot;?",
+    "correct_answer": "Mike Posner",
+    "incorrect_answers": [
+    "Avicii",
+    "Robbie Williams",
+    "Harry Styles"
+    ]
+    },
+    {
+    "category": "Entertainment: Cartoon & Animations",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "In the show &quot;Steven Universe&quot;, who are the main two employees of The Big Donut?",
+    "correct_answer": "Sadie and Lars",
+    "incorrect_answers": [
+    "Steven and James",
+    "Erik and Julie",
+    "Bob and May"
+    ]
+    },
+    {
+    "category": "Entertainment: Cartoon & Animations",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Who created the Cartoon Network series &quot;Regular Show&quot;?",
+    "correct_answer": "J. G. Quintel",
+    "incorrect_answers": [
+    "Ben Bocquelet",
+    "Pendleton Ward",
+    "Rebecca Sugar"
+    ]
+    },
+    {
+    "category": "Entertainment: Television",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "In &quot;Breaking Bad&quot;, Walter White is a high school teacher diagnosed with which form of cancer?",
+    "correct_answer": "Lung Cancer",
+    "incorrect_answers": [
+    "Prostate Cancer",
+    "Brain Cancer",
+    "Testicular Cancer"
+    ]
+    },
+    {
+    "category": "Entertainment: Video Games",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Who is the main protagonist in Danganronpa 2: Goodbye Despair?",
+    "correct_answer": "Hajime Hinata",
+    "incorrect_answers": [
+    "Nagito Komaeda",
+    "Makoto Naegi",
+    "Junko Enoshima"
+    ]
+    },
+    {
+    "category": "Entertainment: Japanese Anime & Manga",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "In &quot;To Love-Ru&quot;, Ren and Run are from what planet?",
+    "correct_answer": "Memorze",
+    "incorrect_answers": [
+    "Deviluke",
+    "Mistletoe",
+    "Okiwana"
+    ]
+    },
+    {
+    "category": "Animals",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "What is the collective noun for a group of crows?",
+    "correct_answer": "Murder",
+    "incorrect_answers": [
+    "Pack",
+    "Gaggle",
+    "Herd"
+    ]
+    },
+    {
+    "category": "Entertainment: Board Games",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "In which year was the pen and paper RPG &quot;Deadlands&quot; released?",
+    "correct_answer": "1996",
+    "incorrect_answers": [
+    "2003",
+    "1999",
+    "1993"
+    ]
+    },
+    {
+    "category": "General Knowledge",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "What machine element is located in the center of fidget spinners?",
+    "correct_answer": "Bearings",
+    "incorrect_answers": [
+    "Axles",
+    "Gears",
+    "Belts"
+    ]
+    },
+    {
+    "category": "Entertainment: Television",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "In the TV show &quot;Mad Men&quot;, what was Donald Draper&#039;s birthname?",
+    "correct_answer": "Richard &quot;Dick&quot; Whitman",
+    "incorrect_answers": [
+    "Donald Draper",
+    "John Ashbury",
+    "Michael &quot;Mikey&quot; Wilhelm"
+    ]
+    },
+    {
+    "category": "Entertainment: Video Games",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "What is the last name of the primary female protagonist of Final Fantasy VIII?",
+    "correct_answer": "Heartilly",
+    "incorrect_answers": [
+    "Loire",
+    "Almasy",
+    "Trepe"
+    ]
+    },
+    {
+    "category": "Geography",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Which small country is located between the borders of France and Spain?",
+    "correct_answer": "Andorra",
+    "incorrect_answers": [
+    "San Marino",
+    "Vatican City",
+    "Lichtenstein"
+    ]
+    },
+    {
+    "category": "Art",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Who painted The Starry Night?",
+    "correct_answer": "Vincent van Gogh",
+    "incorrect_answers": [
+    "Pablo Picasso",
+    "Leonardo da Vinci",
+    "Michelangelo"
+    ]
+    },
+    {
+    "category": "General Knowledge",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "What zodiac sign is represented by a pair of scales?",
+    "correct_answer": "Libra",
+    "incorrect_answers": [
+    "Aries",
+    "Capricorn",
+    "Sagittarius"
+    ]
+    },
+    {
+    "category": "General Knowledge",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "The likeness of which president is featured on the rare $2 bill of USA currency?",
+    "correct_answer": "Thomas Jefferson",
+    "incorrect_answers": [
+    "Martin Van Buren",
+    "Ulysses Grant",
+    "John Quincy Adams"
+    ]
+    },
+    {
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "What is the most common type of pitch thrown by pitchers in baseball?",
+    "correct_answer": "Fastball",
+    "incorrect_answers": [
+    "Slowball",
+    "Screwball",
+    "Palmball"
+    ]
+    },
+    {
+    "category": "Entertainment: Video Games",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "In &quot;Yo! Noid 2,&quot; The Noid can perform what special move?",
+    "correct_answer": "Dab",
+    "incorrect_answers": [
+    "Pizza Throw",
+    "Dodge Roll",
+    "Spin Dash"
+    ]
+    },
+    {
+    "category": "Entertainment: Video Games",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "What is the name of the talking cat in Persona 5?",
+    "correct_answer": "Morgana",
+    "incorrect_answers": [
+    "Teddie",
+    "Marie",
+    "Ryuji"
+    ]
+    },
+    {
+    "category": "Entertainment: Video Games",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "In the survival horror game, &quot;Cry of Fear,&quot; what was the name of Simon&#039;s close friend/potential love interest?",
+    "correct_answer": "Sophie",
+    "incorrect_answers": [
+    "Olivia",
+    "Jessica",
+    "Alice"
+    ]
+    },
+    {
+    "category": "Entertainment: Video Games",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "What is the name of a popular franchise that includes placing blocks down and surviving in an open world? ",
+    "correct_answer": "Minecraft",
+    "incorrect_answers": [
+    "Unturned",
+    "Roblox",
+    "Grand Theft Auto V"
+    ]
+    },
+    {
+    "category": "Entertainment: Comics",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "What&#039;s the race of Invincible&#039;s father?",
+    "correct_answer": "Viltrumite",
+    "incorrect_answers": [
+    "Kryptonian",
+    "Kree",
+    "Irken"
+    ]
+    },
+    {
+    "category": "Entertainment: Video Games",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "When was &quot;Luigi&#039;s Mansion 3&quot; released?",
+    "correct_answer": "October 31st, 2019",
+    "incorrect_answers": [
+    "January 13th, 2019",
+    "September 6th, 2018",
+    "October 1st, 2019"
+    ]
+    },
+    {
+    "category": "Science: Computers",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "What does the computer software acronym JVM stand for?",
+    "correct_answer": "Java Virtual Machine",
+    "incorrect_answers": [
+    "Java Vendor Machine",
+    "Java Visual Machine",
+    "Just Virtual Machine"
+    ]
+    }
+    ]
+    }
