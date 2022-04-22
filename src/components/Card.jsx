@@ -6,9 +6,9 @@ import Data from '../data/data.json'
 
 function Card(props) {
 
-    const [data,setData] = useState(Data.results)
+    const [data,setData] = useState(Data.questions)
     const [api,setApi] = useState(false)
-    const [random,setRandom] = useState(Math.floor(Math.random()*50))
+    const [random,setRandom] = useState(Math.floor(Math.random()*Data.questions.length))
     const [answer,setAnswer] = useState('')
     useEffect(()=>{
       },[])

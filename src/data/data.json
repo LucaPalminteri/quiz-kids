@@ -446,10 +446,382 @@
             ]
         },
         {
-            "category": "Deportes",
+            "category": "Historia y Geografía",
             "type": "multiple",
             "difficulty": "easy",
-            "question": "",
+            "question": "¿Cómo se conoce a la escritura del Antiguo Egipto?",
+            "correct_answer": "Jeroglíficos",
+            "incorrect_answers": [
+            "Romana",
+            "Cirílica",
+            "Hebraica"
+            ]
+        },
+        {
+            "category": "Historia y Geografía",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "¿En qué continente podemos encontrar Senegal?",
+            "correct_answer": "África",
+            "incorrect_answers": [
+            "Oceanía",
+            "Asia",
+            "Europa"
+            ]
+        },
+        {
+            "category": "Historia y Geografía",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "¿Cuál de las siguientes ciudades no tiene mar?",
+            "correct_answer": "Paris",
+            "incorrect_answers": [
+            "Palermo",
+            "Valencia",
+            "Barcelona"
+            ]
+        },
+        {
+            "category": "Historia y Geografía",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "¿Cuál era la nacionalidad de Julio Cesar?",
+            "correct_answer": "Romana",
+            "incorrect_answers": [
+            "Persa",
+            "Egipcia",
+            "Griega"
+            ]
+        },
+        {
+            "category": "Historia y Geografía",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "¿Qué hombre puso por primera vez el pie en la Luna?",
+            "correct_answer": "Armstrong",
+            "incorrect_answers": [
+            "Lindbergh",
+            "Gagarino",
+            "Tintín"
+            ]
+        },
+        {
+            "category": "Historia y Geografía",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "¿Qué país de los siguientes no hace frontera con Francia?",
+            "correct_answer": "Portugal",
+            "incorrect_answers": [
+            "Italia",
+            "España",
+            "Suiza"
+            ]
+        },
+        {
+            "category": "Historia y Geografía",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "¿Dónde podemos encontrar la Estatua de la Libertad?",
+            "correct_answer": "Nueva York",
+            "incorrect_answers": [
+            "Chicago",
+            "Los Ángeles",
+            "Washington"
+            ]
+        },
+        {
+            "category": "Historia y Geografía",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "¿Qué pueblo mandaba Atila?",
+            "correct_answer": "Los Hunos",
+            "incorrect_answers": [
+            "Los vikingos",
+            "Los romanos",
+            "Los galos"
+            ]
+        },
+        {
+            "category": "Historia y Geografía",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "¿Abraham Lincoln fue presidente de qué país?",
+            "correct_answer": "EEUU",
+            "incorrect_answers": [
+            "Rusia",
+            "Francia",
+            "Inglaterra"
+            ]
+        },
+        {
+            "category": "Historia y Geografía",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "¿Cuál es la capital de Dinamarca?",
+            "correct_answer": "Copenhague",
+            "incorrect_answers": [
+            "Helsinki",
+            "Oslo",
+            "Estocolmo"
+            ]
+        },
+        {
+            "category": "Historia y Geografía",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "¿Cuál es la capital de China?",
+            "correct_answer": "Pekín",
+            "incorrect_answers": [
+            "Tokio",
+            "Seúl",
+            "Hong Kong"
+            ]
+        },
+        {
+            "category": "Historia y Geografía",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "¿En qué cadena montañosa encontramos la cima más alta del mundo?",
+            "correct_answer": "El Himalaya",
+            "incorrect_answers": [
+            "Los Alpes",
+            "Los Cárpatos",
+            "Los Andes"
+            ]
+        },
+        {
+            "category": "Matemáticas",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "¿Cuántos lados tiene un hexágono?",
+            "correct_answer": "6 lados",
+            "incorrect_answers": [
+            "8 lados",
+            "7 lados",
+            "5 lados"
+            ]
+        },
+        {
+            "category": "Matemáticas",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "¿Cuál es el resultado de sumar una 1 hora y 40 minutos y 1 hora y 30 minutos?",
+            "correct_answer": "3 horas y 10 minutos",
+            "incorrect_answers": [
+            "1 hora y 40 minutos",
+            "3 horas",
+            "2 horas y 50 minutos"
+            ]
+        },
+        {
+            "category": "Matemáticas",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "¿Qué distancia recorrerá un coche en tres horas si va a 50 Km/h?",
+            "correct_answer": "150 km",
+            "incorrect_answers": [
+            "300 km",
+            "500 km",
+            "100 km"
+            ]
+        },
+        {
+            "category": "Matemáticas",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "Si el radio de un círculo mide 10 cm, ¿Cuánto mide su diámetro?",
+            "correct_answer": "20 cm",
+            "incorrect_answers": [
+            "50 cm",
+            "1 metro",
+            "30 cm"
+            ]
+        },
+        {
+            "category": "Matemáticas",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "¿Cuántas flores hay en dos docenas de rosas?",
+            "correct_answer": "24",
+            "incorrect_answers": [
+            "32",
+            "12",
+            "6"
+            ]
+        },
+        {
+            "category": "Matemáticas",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "¿Qué es más ligero?",
+            "correct_answer": "100 gramos de hierro",
+            "incorrect_answers": [
+            "1 kilo de algodón",
+            "1 kilo de plumas",
+            "1 kilo de lana"
+            ]
+        },
+        {
+            "category": "Matemáticas",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "¿Por cuánto tenemos que multiplicar el 6 para obtener 36?",
+            "correct_answer": "6",
+            "incorrect_answers": [
+            "8",
+            "4",
+            "3"
+            ]
+        },
+        {
+            "category": "Matemáticas",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "Un triángulo equilátero tiene…",
+            "correct_answer": "Los 3 lados iguales",
+            "incorrect_answers": [
+            "1 ángulo recto",
+            "2 lados iguales",
+            "Los tres lados diferentes"
+            ]
+        },
+        {
+            "category": "Matemáticas",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "¿Cuál es el resultado de 3,15 X 100?",
+            "correct_answer": "315",
+            "incorrect_answers": [
+            "3150",
+            "31,50",
+            "0,315"
+            ]
+        },
+        {
+            "category": "Matemáticas",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "Juan tiene 10 años, Marcos tienes 5 más que Juan y Pepito tiene 3 menos que Juan. ¿Cuántos años tiene Pepito?",
+            "correct_answer": "7 años",
+            "incorrect_answers": [
+            "15 años",
+            "5 años",
+            "13 años"
+            ]
+        },
+        {
+            "category": "Estaciones del Año",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "¿En qué estación la noche y el día duran lo mismo?",
+            "correct_answer": "En invierno",
+            "incorrect_answers": [
+            "En otoño",
+            "En verano",
+            "En primavera"
+            ]
+        },
+        {
+            "category": "Estaciones del Año",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "¿Cuándo empieza el otoño?",
+            "correct_answer": "El 22-23 de marzo",
+            "incorrect_answers": [
+            "El 22-23 de septiembre",
+            "El 22-23 de agosto",
+            "El 22-23 de octubre"
+            ]
+        },
+        {
+            "category": "Estaciones del Año",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "¿Por qué se producen las estaciones?",
+            "correct_answer": "Por el movimiento de traslación",
+            "incorrect_answers": [
+            "Por las vacaciones",
+            "Por el movimiento de transacción",
+            "Por la posición de Saturno en el sistema solar"
+            ]
+        },
+        {
+            "category": "Estaciones del Año",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "¿En qué estación las noches son más largas que los días?",
+            "correct_answer": "En ninguna",
+            "incorrect_answers": [
+            "En invierno",
+            "En primavera",
+            "En todas"
+            ]
+        },
+        {
+            "category": "Estaciones del Año",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "halabalaca",
+            "correct_answer": "Respiratorio",
+            "incorrect_answers": [
+            "Digestivo",
+            "Escretor",
+            "Circulatorio"
+            ]
+        },
+        {
+            "category": "Estaciones del Año",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "¿En qué estación los días son más largos que las noches?",
+            "correct_answer": "En verano",
+            "incorrect_answers": [
+            "En otoño",
+            "En primavera",
+            "En invierno"
+            ]
+        },
+        {
+            "category": "Estaciones del Año",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "¿Cuántas estaciones tiene el año?",
+            "correct_answer": "Cuatro",
+            "incorrect_answers": [
+            "Una",
+            "Dos",
+            "Tres"
+            ]
+        },
+        {
+            "category": "Estaciones del Año",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "halabalaca",
+            "correct_answer": "Respiratorio",
+            "incorrect_answers": [
+            "Digestivo",
+            "Escretor",
+            "Circulatorio"
+            ]
+        },
+        {
+            "category": "Estaciones del Año",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "halabalaca",
+            "correct_answer": "Respiratorio",
+            "incorrect_answers": [
+            "Digestivo",
+            "Escretor",
+            "Circulatorio"
+            ]
+        },
+        {
+            "category": "Estaciones del Año",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "halabalaca",
             "correct_answer": "Respiratorio",
             "incorrect_answers": [
             "Digestivo",
@@ -457,6 +829,7 @@
             "Circulatorio"
             ]
         }
+
     ],
     "results": [
     {
